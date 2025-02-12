@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+
+a {
+    color: inherit;/* cor dos links sera herdada*/
+    text-decoration: none; /*tag link:nao vai ter underline*/
+}
