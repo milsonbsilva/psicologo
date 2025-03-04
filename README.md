@@ -3,10 +3,15 @@
 ## Projeto integrador feito por alunos CENTRO UNIVERSITARIO SENAC-SANTO AMARO:
 ## ALUNOS:
 **Integrantes do grupo:** 
+
 André Noronha Ribeiro
+
 Milson Barbosa da Silva
+
 Túlio Henrique de Araujo
+
 Camila Soler Marconi
+
 Lohanne Tiffany de Carvalho
 
 ## PROFESSOR:
