@@ -14,8 +14,7 @@ Camila Soler Marconi
 
 Lohanne Tiffany de Carvalho
 
-## PROFESSOR:
-Gustavo Calixto
+ **PROFESSOR: Gustavo Calixto**
 
 
 ## Descrição
