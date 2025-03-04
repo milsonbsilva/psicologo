@@ -1,7 +1,7 @@
 # Psychological Care Management App
 
 ## Projeto integrador feito por alunos CENTRO UNIVERSITARIO SENAC-SANTO AMARO:
-## ALUNOS:
+
 **Integrantes do grupo:** 
 
 André Noronha Ribeiro
